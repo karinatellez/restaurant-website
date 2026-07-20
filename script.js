@@ -12,7 +12,7 @@ signUp.addEventListener('click',()=>{
 
 document.addEventListener('DOMContentLoaded', () => {
     const btnIrAlMenu = document.getElementById('btn-ir-al-menu');
-    const formContainer = document.querySelector('.form-container'); // Busca la clase
+    const container = document.querySelector('.container'); // Busca la clase
     const menuPantalla = document.getElementById('menu-pantalla'); // Busca el ID
 
     if (btnIrAlMenu) {
@@ -20,8 +20,10 @@ document.addEventListener('DOMContentLoaded', () => {
             e.preventDefault();
             
             // Verifica que los elementos existan antes de cambiarlos
-            if (formContainer) {
-                formContainer.style.display = 'none';
+            if (container) {
+                container.style.display = 'none';
+                menuPantalla.style.display = 'block';
+                console.log("contenedor occulto y menu mostrado correctamente");
             }
             if (menuPantalla) {
                 menuPantalla.style.display = 'block';
@@ -32,6 +34,12 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
+const btnRegistrar = document.getElementById("btn-registrar");
+btnRegistrar.addEventListener("click", function (e){
+    e.preventDefault();
+    form.classList.remove("toggle");
+    });
 /*
 document.querySelector('.btn-registrar').addEventListener('click', function(e) {
     window.location.href ='menu.html';
