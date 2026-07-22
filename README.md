@@ -55,12 +55,6 @@ The objective of this project was to strengthen my skills in responsive web desi
 - Admin dashboard
 - Backend development
 
----
-
-## 👩‍💻 Author
-
-Karina Andrea Téllez
-
 GitHub:
-https://github.com/karinatellez
-update READMe
+https://github.com/karinatellez/restaurant-website
+
