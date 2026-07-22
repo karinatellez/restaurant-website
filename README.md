@@ -1,18 +1,18 @@
-# Restaurant Website
+# 🍽️ Restaurant Website
 
 A modern and responsive restaurant website built with HTML, CSS, and JavaScript.
 
-# Live Demo
+## 🌐 Live Demo
 
- https://karinatellez.github.io/restaurant-website/
+👉 https://karinatellez.github.io/restaurant-website/
 
-# Repository
+## 📂 Repository
 
-https://github.com/karinatellez/restaurant-website
+👉 https://github.com/karinatellez/restaurant-website
 
 ---
 
-# About the project
+## 📖 About the project
 
 This project was developed as part of my Front-End learning journey.
 
@@ -22,7 +22,7 @@ The objective of this project was to strengthen my skills in responsive web desi
 
 ---
 
-# Features
+## ✨ Features
 
 - Responsive design
 - Login page
@@ -35,7 +35,7 @@ The objective of this project was to strengthen my skills in responsive web desi
 
 ---
 
-# Technologies
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
@@ -46,7 +46,7 @@ The objective of this project was to strengthen my skills in responsive web desi
 
 ---
 
-# Future Improvements
+## 🚀 Future Improvements
 
 - User authentication
 - Database integration
@@ -55,5 +55,12 @@ The objective of this project was to strengthen my skills in responsive web desi
 - Admin dashboard
 - Backend development
 
+---
+
+## 👩‍💻 Author
+
+Karina Andrea Téllez
+
 GitHub:
 https://github.com/karinatellez
+update READMe
