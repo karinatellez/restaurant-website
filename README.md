@@ -1,4 +1,5 @@
 # 🍽️ Restaurant Website
+<img src="image.png" width="900">
 
 A modern and responsive restaurant website built with HTML, CSS, and JavaScript.
 
@@ -58,6 +59,6 @@ The objective of this project was to strengthen my skills in responsive web desi
 GitHub:
 https://github.com/karinatellez/restaurant-website
 
-## preview
-<img src="image.png" width="900">
+
+
 
