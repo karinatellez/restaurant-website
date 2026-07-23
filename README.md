@@ -57,4 +57,6 @@ The objective of this project was to strengthen my skills in responsive web desi
 
 GitHub:
 https://github.com/karinatellez/restaurant-website
+## preview
+![Restaurant Website] (image.png)
 
